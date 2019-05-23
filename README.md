@@ -22,7 +22,7 @@ Let's map out that information:
 ![](http://learn-co-curriculum.s3.amazonaws.com/nested-hashes-romeo-juliet.png)
 
 What we have here is a nested data structure. There are different levels or
-tiers of information. On the top tier, we have family names. Beneath that we
+tiers of information. Osfn the top tier, we have family names. Beneath that we
 have key characters, and beneath that we have their attributes. We have an
 additional layer of the hero/heroine's friends because there are multiple
 friends. Now that we have a sense of the structure that our collection of
