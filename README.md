@@ -13,6 +13,7 @@ the '90s starring Leonardo DiCaprio and Claire Danes.
 
 ![](http://readme-pics.s3.amazonaws.com/RomeoandJuliet5.jpg)
 
+
 But there's a Romeo and Juliet quiz our teacher has scheduled for us that we
 need to get ready for. We will definitely be required to answer some questions
 on the cast of characters and their attributes and relationships to one another.
